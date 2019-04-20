@@ -1,3 +1,3 @@
-git is a distributed version control tool
+git git git
 git is free software	
-git is tracked
+git tracks changes
